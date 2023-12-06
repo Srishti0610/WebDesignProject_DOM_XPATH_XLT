@@ -1,0 +1,24 @@
+C:\Users\Srishti\.jdks\openjdk-21.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.4\lib\idea_rt.jar=60335:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.4\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\UTA Fall 23\WDM\project7\out\production\project7" XPATH
+
+
+
+1. Print the titles of all articles whose one of the authors is David Maier.
+<title>Fragments of Relations.</title><title>Windows on the World.</title>
+
+2. Print the titles of all articles whose first author is David Maier.
+<title>Fragments of Relations.</title><title>Windows on the World.</title>
+
+3. Print the titles of all articles whose authors include David Maier and Stanley B. Zdonik.
+
+
+4. Print the titles of all articles in volume 19/number 2.
+
+
+5. Print the titles and the init/end pages of all articles in volume 19/number 2 whose authors include Jim Gray.
+
+
+6. Print the volume and number of all articles whose authors include David Maier.
+<volume>13</volume><number>4</number>
+
+
+Process finished with exit code 0
